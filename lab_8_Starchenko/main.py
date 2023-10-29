@@ -1,3 +1,2 @@
 import mytest
 
-mytest.privet()
