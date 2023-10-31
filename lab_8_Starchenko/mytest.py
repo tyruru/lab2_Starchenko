@@ -1,2 +1,0 @@
-def privet():
-    print("hello")
